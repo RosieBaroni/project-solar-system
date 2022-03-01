@@ -1,0 +1,13 @@
+.planet-card {
+  font-size: 25px;
+  text-align: center;
+  width: 12.5%;
+}
+
+.planet-card img {
+  width: 100%;
+}
+
+.planet-card:hover {
+  transform: scale(1.5);
+}

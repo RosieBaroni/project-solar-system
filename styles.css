@@ -1,0 +1,12 @@
+/* evita com que a borda e padding influencie nas dimensões do elemento */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url('images/background.png');
+  color: white;
+  font-family: Segoe UI , Tahoma , Geneva , Verdana , sans-serif;
+  margin: 0;
+  overflow-x: hidden;
+}
